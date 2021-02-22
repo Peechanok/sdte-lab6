@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: peechanok/sdte-lab6
+          tags: 61070146/sdte-lab6
           push: true
